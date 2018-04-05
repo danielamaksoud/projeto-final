@@ -8,7 +8,7 @@ Com o objetivo de contribuir para um futuro sustentável, o aplicativo **Usar & 
 - [x] Cadastro de usuário
 - [ ] Cadastro de itens para troca
 - [ ] Carrinho de compras
-- [ ] Rastreamento de pacotes
+- [ ] Rastreamento de encomendas
 - [ ] Pesquisa de satisfação
 
 ## Instruções
