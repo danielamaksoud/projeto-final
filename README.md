@@ -27,6 +27,7 @@ Com o objetivo de contribuir para um futuro sustentável, o aplicativo **Usar & 
 
 ## Fontes:
 - https://www.youtube.com/watch?v=O8i-La19gtU - Primeiros Passos para criar seu aplicativo para iOS Iphone/Ipod/Ipad - Por onde começar?
+- https://www.youtube.com/watch?v=NqdpK9KjGgQ - Russell Keith-Magee - A tale of two cellphones: Python on Android and iOS - PyCon 2016
 
 ## Trello do Projeto:
 
