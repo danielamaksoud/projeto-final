@@ -2,7 +2,7 @@
 ## Título: 
 **Usar & Reusar** - Aplicativo de vendas e trocas online
 ## Resumo:
-Com o objetivo de contribuir para um futuro sustentável, o aplicativo **Usar & Reusar** - desenvolvido em Python para iOS - possibilitará que o usuário realize um cadastro e crie um perfil de usuário para poder comprar os produtos disponíveis na loja (roupas seminovas) ou trocá-los por itens próprios que tenham sido previamente cadastrados no seu perfil de usuário. Dessa forma, o aplicativo **Usar & Reusar** será uma forma prática e ágil de consumir de maneira diferente, criativa e consciente.   
+Com o objetivo de contribuir para um futuro sustentável, o aplicativo **Usar & Reusar** - desenvolvido para iOS - possibilitará que o usuário realize um cadastro e crie um perfil de usuário para poder comprar os produtos disponíveis na loja (roupas seminovas) ou trocá-los por itens próprios que tenham sido previamente cadastrados no seu perfil de usuário. Dessa forma, o aplicativo **Usar & Reusar** será uma forma prática e ágil de consumir de maneira diferente, criativa e consciente.   
 
 ## Funcionalidades implementadas:
 - Cadastro de usuário
