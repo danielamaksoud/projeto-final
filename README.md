@@ -5,11 +5,11 @@
 Com o objetivo de contribuir para um futuro sustentável, o aplicativo **Usar & Reusar** - desenvolvido em Python para iOS - possibilitará que o usuário realize um cadastro e crie um perfil de usuário para poder comprar os produtos disponíveis na loja (roupas seminovas) ou trocá-los por itens próprios que tenham sido previamente cadastrados no seu perfil de usuário. Dessa forma, o aplicativo **Usar & Reusar** será uma forma prática e ágil de consumir de maneira diferente, criativa e consciente.   
 
 ## Funcionalidades implementadas:
-- [x] Cadastro de usuário
-- [ ] Cadastro de itens para troca
-- [ ] Carrinho de compras
-- [ ] Rastreamento de encomendas
-- [ ] Pesquisa de satisfação
+- Cadastro de usuário
+- Cadastro de itens para troca
+- Carrinho de compras
+- Rastreamento de encomendas
+- Pesquisa de satisfação
 
 ## Instruções:
 - Instrução 1
