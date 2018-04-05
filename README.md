@@ -17,3 +17,11 @@ Com o objetivo de contribuir para um futuro sustentável, o aplicativo **Usar & 
 3. Instrução 3
 4. Instrução 4
 5. Instrução 5
+
+## Recursos Utilizados:
+1. Python
+2. MySQL
+3. Recurso 3
+3. Recurso 4
+3. Recurso 5
+
