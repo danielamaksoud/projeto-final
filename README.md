@@ -1,6 +1,6 @@
 # Projeto Final I (INF1950)
 ## Título: 
-Usar & Reusar - Aplicativo de vendas e trocas de roupas online
+Usar & Reusar - Aplicativo de vendas e trocas online
 ## Resumo:
 Com o objetivo de contribuir para um futuro sustentável, o aplicativo Usar & Reusar - desenvolvido em Python para iOS - possibilitará que o usuário realize um cadastro e crie um perfil de usuário para, então, poder comprar os produtos disponíveis na loja online ou trocar itens próprios que tenham sido previamente cadastrados no seu perfil de usuário por produtos da loja online. Dessa forma, o aplicativo Usar & Reusar será uma forma prática e ágil de consumir de maneira diferente, criativa e consciente.   
 
