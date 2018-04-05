@@ -25,3 +25,7 @@ Com o objetivo de contribuir para um futuro sustentável, o aplicativo **Usar & 
 3. Recurso 4
 3. Recurso 5
 
+## Trello do Projeto:
+
+https://trello.com/b/BwWI9KTM
+
