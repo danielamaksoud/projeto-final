@@ -11,7 +11,7 @@ Com o objetivo de contribuir para um futuro sustentável, o aplicativo **Usar & 
 - [ ] Rastreamento de encomendas
 - [ ] Pesquisa de satisfação
 
-## Instruções
+## Instruções:
 1. Instrução 1
 2. Instrução 2
 3. Instrução 3
