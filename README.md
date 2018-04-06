@@ -8,8 +8,9 @@ Com o objetivo de contribuir para um futuro sustentável e visar os princípios 
 - Cadastro de usuário
 - Cadastro de itens para troca
 - Carrinho de compras
+- Check-out
 - Rastreamento de encomendas
-- Pesquisa de satisfação
+- Pesquisa de satisfação do usuário
 
 ## Instruções:
 - Instrução 1
