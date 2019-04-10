@@ -6,7 +6,7 @@ Com o objetivo de contribuir para um futuro sustentável e visar os princípios 
 
 ## Funcionalidades:
 - Cadastro de usuário
-- Cadastro de itens (vitrine)
+- Cadastro de itens do usuário (vitrine)
 - Carrinho de compras
 - Check-out
 - Rastreamento de encomendas
