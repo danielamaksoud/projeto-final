@@ -1,8 +1,13 @@
 # Projeto Final I (INF1950)
 ## Título: 
+### Projeto de interação
 **Usar & Reusar** - Aplicativo de vendas e trocas online
+
+## Prof.ª Orientadora:
+Clarisse Sieckenius
+
 ## Resumo:
-Com o objetivo de contribuir para um futuro sustentável e visar os princípios de segurança, privacidade e usabilidade, o aplicativo **Usar & Reusar** - desenvolvido em *Python* para *iOS* - possibilitará que o usuário realize um cadastro e crie um perfil de usuário para assim, poder comprar os produtos disponíveis na loja (neste caso em particular, roupas seminovas) ou trocá-los por itens próprios que tenham sido previamente cadastrados no seu perfil de usuário. Dessa forma, o aplicativo Usar & Reusar será uma forma prática e ágil de consumir de maneira diferente, criativa e consciente, divergindo das plataformas de e-commerce gratuitas disponíveis no mercado pela sua simplicidade e objetividade.  
+Neste projeto será desenvolvido um protótipo de alta fidelidade de um aplicativo de vendas e trocas, com foco na área de Interação Humano-Computador (IHC). O usuário poderá realizar seu cadastro na loja e vender itens próprios ou trocá-los por itens de outros usuários. Dessa forma, o aplicativo irá contribuir para um futuro sustentável e para o consumo consciente. 
 
 ## Funcionalidades:
 - Cadastro de usuário
@@ -34,4 +39,3 @@ Com o objetivo de contribuir para um futuro sustentável e visar os princípios 
 ## Trello do Projeto:
 
 - https://trello.com/b/BwWI9KTM
-
