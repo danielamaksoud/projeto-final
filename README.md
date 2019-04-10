@@ -7,7 +7,7 @@
 Clarisse Sieckenius
 
 ## Resumo:
-Neste projeto será desenvolvido um protótipo de alta fidelidade de um aplicativo de vendas e trocas, com foco na área de Interação Humano-Computador (IHC). O usuário poderá realizar seu cadastro na loja e vender itens próprios ou trocá-los por itens de outros usuários. Dessa forma, o aplicativo irá contribuir para um futuro sustentável e para o consumo consciente. 
+Neste projeto será desenvolvido um protótipo de alta fidelidade de um aplicativo de vendas e trocas, com foco na área de Interação Humano-Computador (IHC). Serão realizados estudos com os usuários finais, análise de tecnologias empregadas no mercado e avaliação de eficiência para elaborar o design do aplicativo, no qual o usuário poderá realizar seu cadastro e vender itens próprios ou trocá-los por itens de outros usuários. Dessa forma, será possível contribuir para um futuro sustentável com consumo consciente. 
 
 ## Funcionalidades:
 - Cadastro de usuário
