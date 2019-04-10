@@ -20,11 +20,12 @@ Com o objetivo de contribuir para um futuro sustentável e visar os princípios 
 - Instrução 5
 
 ## Recursos Utilizados:
-- Python
+- HTML5
+- CSS3
+- SASS
+- PHP
+- CakePHP
 - MySQL
-- Recurso 3
-- Recurso 4
-- Recurso 5
 
 ## Fontes:
 - https://www.youtube.com/watch?v=O8i-La19gtU - Primeiros Passos para criar seu aplicativo para iOS Iphone/Ipod/Ipad - Por onde começar?
