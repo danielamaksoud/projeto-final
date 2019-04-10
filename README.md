@@ -31,6 +31,9 @@ Neste projeto será desenvolvido um protótipo de alta fidelidade de um aplicati
 - PHP
 - CakePHP
 - MySQL
+- JavaScript
+- JQUERY
+- AJAX
 
 ## Fontes:
 - https://www.youtube.com/watch?v=O8i-La19gtU - Primeiros Passos para criar seu aplicativo para iOS Iphone/Ipod/Ipad - Por onde começar?
