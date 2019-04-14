@@ -32,12 +32,12 @@ Neste projeto será desenvolvido um protótipo de alta fidelidade de um aplicati
 - CakePHP
 - MySQL
 - JavaScript
-- JQUERY
+- JQuery
 - AJAX
+- Swift
 
 ## Fontes:
-- https://www.youtube.com/watch?v=O8i-La19gtU - Primeiros Passos para criar seu aplicativo para iOS Iphone/Ipod/Ipad - Por onde começar?
-- https://www.youtube.com/watch?v=NqdpK9KjGgQ - Russell Keith-Magee - A tale of two cellphones: Python on Android and iOS - PyCon 2016
+- https://www.siteaqui.com/ - Título
 
 ## Trello do Projeto:
 
